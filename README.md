@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Nidharshan. I'm learning to solve problems 👋
 
 <!--
 **nidharshan01/nidharshan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
